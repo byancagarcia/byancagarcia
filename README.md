@@ -27,3 +27,7 @@ Here are some ideas to get you started:
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/byancagarcia/byancagarcia/output/cobrinha.svg"
+
+    npm install
+
+npm run dev:demo
