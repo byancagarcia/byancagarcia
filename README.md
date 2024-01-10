@@ -1,7 +1,7 @@
 ### Olá! Bem vindx ao Mundo Dev da Bya 👋
 
 - 🌱 Estudando AI 
-- 📫 Contate-me no e-mai: mundodevdabya@gmail.com 
+- 📫 Contate-me no e-mail: mundodevdabya@gmail.com 
 - 😄 Pronouns: ela/dela
 
 
